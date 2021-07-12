@@ -6,9 +6,9 @@
   VolumetricParticle allows you to add 3D particles and manage them through editor
 
 # How to use
-  Put ParticleController on empty gameobject or existing one
-  Put VolumetricParticle script on gameobject you want to make 3D particle
-  Recomended to remove collider from VolumetricParticle (if you want particles not to collide with objects of course)
+- Put ParticleController on empty gameobject or existing one
+- Put VolumetricParticle script on gameobject you want to make 3D particle
+- Recomended to remove collider from VolumetricParticle (if you want particles not to collide with objects of course)
 # ParticleController.cs
 ![alt text](https://github.com/1dxrpz/ParticleController/blob/main/PC.jpg?raw=true)
 
