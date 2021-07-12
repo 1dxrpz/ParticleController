@@ -3,3 +3,4 @@
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
 ![alt text](https://github.com/1dxrpz/ParticleController/blob/main/PC.jpg?raw=true)
+![alt text](https://github.com/1dxrpz/ParticleController/blob/main/VP.jpg?raw=true)
