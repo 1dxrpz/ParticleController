@@ -7,8 +7,8 @@
 
 # How to use
 1. Put ParticleController on empty gameobject or existing one
-- Put VolumetricParticle script on gameobject you want to make 3D particle
-- Recomended to remove collider from VolumetricParticle (if you want particles not to collide with objects of course)
+2. Put VolumetricParticle script on gameobject you want to make 3D particle
+3. Recomended to remove collider from VolumetricParticle (if you want particles not to collide with objects of course)
 # ParticleController.cs
 ![alt text](https://github.com/1dxrpz/ParticleController/blob/main/PC.jpg?raw=true)
 
